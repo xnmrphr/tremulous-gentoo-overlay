@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>tremulous</name>
+		<description>Tremulous gentoo overlay</description>
+		<homepage>http://grangerhub.com</homepage>
+		<owner>
+			<email>xnmrphr@gmail.com</email>
+		</owner>
+		<source type="git">https://github.com/xnmrphr/tremulous-gentoo-overlay.git</source>
+	</repo>
+</repositories>
